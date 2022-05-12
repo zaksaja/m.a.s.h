@@ -56,11 +56,14 @@ document.addEventListener('DOMContentLoaded', function(){
 	let ar9 = ["calm", "messy", "dysfunctional", "creative", "mischevious", "retrospective", "crazy", "annoying", "funny", "childish",
 	"mature", "dreamlike", "slow", "fast", "intelligent"]; 
 
+	//mash
+	let ar10 = ["Mansion", "Apartment", "Shack", "House","Mansion", "Apartment", "Shack", "House","Mansion", "Apartment", "Shack", "House","Mansion", "Apartment", "Shack", "House","Mansion", "Apartment", "Shack", "House"];
+
 	/*filling out the form and handling it below*/
 
 	let btn = document.querySelector("button");
 	btn.addEventListener ("click", function(){
-		
+
 		/*read the stuff you put into each of the elements*/
 		
 		let n = ar1 [Math.floor(Math.random()*ar1.length -1)]; //sibling
@@ -73,6 +76,7 @@ document.addEventListener('DOMContentLoaded', function(){
 		let l = ar7 [Math.floor(Math.random()*ar.length -1)]; //location
 		let hb = ar8 [Math.floor(Math.random()*ar.length -1)]; //hobby
 		let hp = ar9 [Math.floor(Math.random()*ar.length -1)]; //happy
+		let msh = ar10 [Math.floor(Math.random()*ar.length -1)] //mash
 
 		let s = document.querySelector("#sib").value;
 		let m = document.querySelector("#desc2").value;
@@ -95,6 +99,7 @@ document.addEventListener('DOMContentLoaded', function(){
 		let blank8 = document.querySelector("#blank8"); //location
 		let blank9 = document.querySelector("#blank9"); //hobby
 		let blank10 = document.querySelector("#blank10"); //happy
+		let blank11 = document.querySelector("#blank11"); //mash
 
 		let sibling = document.querySelector("#sib");
 		let colour = document.querySelector("#col");
@@ -107,6 +112,7 @@ document.addEventListener('DOMContentLoaded', function(){
 		let hobby = document.querySelector("#hobby");
 		let happy = document.querySelector("#happy");
 
+		blank11.innerHTML = msh;
 		blank1.innerHTML = n;
 		blank2.innerHTML = v;
 		blank3.innerHTML = a;

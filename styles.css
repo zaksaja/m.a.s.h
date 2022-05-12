@@ -102,6 +102,10 @@ h3{
 	font-family: Arial, Helvetica, sans-serif;
 	color: black;
 }
+#blank11{
+	font-family: Arial, Helvetica, sans-serif;
+	color: rgb(255, 0, 179);
+}
 
 @keyframes smallupdown {
   0% {
