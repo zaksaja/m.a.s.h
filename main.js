@@ -60,6 +60,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
 	let btn = document.querySelector("button");
 	btn.addEventListener ("click", function(){
+		
 		/*read the stuff you put into each of the elements*/
 		
 		let n = ar1 [Math.floor(Math.random()*ar1.length -1)]; //sibling
