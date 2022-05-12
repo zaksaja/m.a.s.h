@@ -29,7 +29,7 @@ input{
 }
 
 p{
- 
+ text-align: center;
  font-family: Arial, Helvetica, sans-serif;
 
 
@@ -47,17 +47,61 @@ h3{
 	/*text-align: center;*/
 	font-family: Arial, Helvetica, sans-serif;
 	margin-top: 50px;
-	margin-left: 200px;
+	margin-left: 375px;
 	margin-right:200px;
 	margin-bottom: 350px;
+	background-color: rgb(209, 152, 255);
+  	width: 500px;
+  	border: 15px solid rgb(255, 255, 255);
+  	padding: 50px;
 
 }
 
-
-#sun{
-	animation: updown 20s infinite;
+#sib{
+	font-family: Arial, Helvetica, sans-serif;
+	color: black;
 }
 
+#col{
+	font-family: Arial, Helvetica, sans-serif;
+	color: black;
+}
+
+#birth{
+	font-family: Arial, Helvetica, sans-serif;
+	color: black;
+}
+#job{
+	font-family: Arial, Helvetica, sans-serif;
+	color: black;
+}
+
+#zodiac{
+	font-family: Arial, Helvetica, sans-serif;
+	color: black;
+}
+
+#crush{
+	font-family: Arial, Helvetica, sans-serif;
+	color: black;
+}
+#kids{
+	font-family: Arial, Helvetica, sans-serif;
+	color: black;
+}
+
+#location{
+	font-family: Arial, Helvetica, sans-serif;
+	color: black;
+}
+#hobby{
+	font-family: Arial, Helvetica, sans-serif;
+	color: black;
+}
+#happy{
+	font-family: Arial, Helvetica, sans-serif;
+	color: black;
+}
 
 @keyframes smallupdown {
   0% {
