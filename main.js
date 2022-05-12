@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', function(){
 		let hobby = document.querySelector("#hobby");
 		let happy = document.querySelector("#happy");
 
-		blank11.innerHTML = msh;
+		
 		blank1.innerHTML = n;
 		blank2.innerHTML = v;
 		blank3.innerHTML = a;
@@ -123,6 +123,7 @@ document.addEventListener('DOMContentLoaded', function(){
 		blank8.innerHTML = l;
 		blank9.innerHTML = hb;
 		blank10.innerHTML = hp;
+		blank11.innerHTML = msh;
 
 		sibling.innerHTML = s;
 		colour.innerHTML = m;
