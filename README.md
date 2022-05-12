@@ -6,5 +6,5 @@ For the overall look I wanted to go simplistic but effective and really make the
 
 Goals I acheived:
 1. Made a commentary on indviduals aspirations in a chance based system.
-2. Kept a simplistic but pleasing design - transformed a kitchy and childhish idea into something more 'classy'.
+2. Kept a simplistic but pleasing design - transformed a kitchy and childish idea into something more 'classy'.
 3. Maintained an element of surprise and added some more interesting descriptions than I'd used before; more indepth and fuller commentary.
