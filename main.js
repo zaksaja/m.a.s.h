@@ -27,37 +27,45 @@ document.addEventListener('DOMContentLoaded', function(){
 
 	//birth month
 	let ar2 = ["serendipitous", "callous", "definitive", "cool", "clever", "fond", "great", "hopeful", "illogical", "jokester",
+	"kind", "languid","serendipitous", "callous", "definitive", "cool", "clever", "fond", "great", "hopeful", "illogical", "jokester",
 	"kind", "languid"];
 
 	//dream job
-	let ar3 = ["hardworking", "admirable", "brute", "revolutionary", "inventive", "fascinating", "great", "hopeful", "nerdy", "thoughtful", "foreboding"];
+	let ar3 = ["hardworking", "admirable", "brute", "revolutionary", "inventive", "fascinating", "great", "hopeful", "nerdy", "thoughtful", "foreboding",
+	"hardworking", "admirable", "brute", "revolutionary", "inventive", "fascinating", "great", "hopeful", "nerdy", "thoughtful", "foreboding"];
 
 	//zodiac
 	let ar4 = ["aesthetic", "bossy", "covert", "dreamy", "quick", "witty", "well-read", "nerdy", "thoughtful", "foreboding",
+	"forthright", "simplistic","aesthetic", "bossy", "covert", "dreamy", "quick", "witty", "well-read", "nerdy", "thoughtful", "foreboding",
 	"forthright", "simplistic"];
 
 	//celeb crush
 	let ar5 = ["interesting", "gorgeous", "smart", "dazzling", "elegant", "extravagent", "eloquent", "egocentric", "visionary", "genius",
+	"intelligent", "pretty", "gorgeous", "smart", "dazzling", "elegant", "extravagent", "eloquent", "egocentric", "visionary", "genius",
 	"intelligent", "pretty"];
 
 	//kids
 	let ar6 = ["handful", "rambunctious", "intelligent", "mature", "silly", "stubborn", "energetic", "academic", "artistic", "understanding",
+	"empathetic", "short-tempered","handful", "rambunctious", "intelligent", "mature", "silly", "stubborn", "energetic", "academic", "artistic", "understanding",
 	"empathetic", "short-tempered"];
 
 	//location
-	let ar7 = ["aesthetic", "bossy", "covert", "dreamy", "quick", "witty", "well-read", "nerdy", "thoughtful", "foreboding",
-	"forthright", "simplistic"];
+	let ar7 = ["aesthetic", "professional", "covert", "dreamy", "beautiful", "busy", "art-filled", "fascinating", "bustling", "foreboding",
+	"peaceful", "simplistic","aesthetic", "professional", "covert", "dreamy", "beautiful", "busy", "art-filled", "fascinating", "bustling", "foreboding",
+	"peaceful", "simplistic"];
 
 	//hobby
-	let ar8 = ["serendipitous", "callous", "definitive", "cool", "clever", "fond", "great", "hopeful", "illogical", "jokester",
-	"kind", "languid"];
+	let ar8 = ["serendipitous", "callous", "definitive", "cool", "clever", "genius", "great", "hopeful", "practical", "funny",
+	"self-loving", "languid", "callous", "definitive", "cool", "clever", "genius", "great", "hopeful", "logical"];
 
 	//happy
-	let ar9 = ["calm", "messy", "dysfunctional", "creative", "mischevious", "retrospective", "crazy", "annoying", "funny", "childish",
-	"mature", "dreamlike", "slow", "fast", "intelligent"]; 
+	let ar9 = ["calm", "functional", "creative", "mischevious", "retrospective", "funny", "childlike",
+	"mature", "hopeful", "great", "long-lived", "tenatious","calm", "functional", "creative", "mischevious", "retrospective", "funny", "childlike",
+	"mature", "hopeful", "great", "long-lived", "tenatious"]; 
 
 	//mash
-	let ar10 = ["Mansion", "Apartment", "Shack", "House","Mansion", "Apartment", "Shack", "House","Mansion", "Apartment", "Shack", "House","Mansion", "Apartment", "Shack", "House","Mansion", "Apartment", "Shack", "House"];
+	let ar10 = ["Mansion", "Apartment", "Shack", "House","Mansion", "Apartment", "Shack", "House","Mansion", "Apartment", "Shack", "House",
+	"Mansion", "Apartment", "Shack", "House","Mansion", "Apartment", "Shack", "House"];
 
 	/*filling out the form and handling it below*/
 
